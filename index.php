@@ -3,7 +3,7 @@
 header("Content-Type: text/plain");
 
 // Your normal text to be rendered
-$text = "This is atext that will be rendered as plain text.";
+$text = "This is a big text that will be rendered as plain text.";
 
 // Output the text
 echo $text;
